@@ -29,3 +29,6 @@ logs/
 # Other
 *.log
 *.jar
+
+# Claude Code
+.claude/
