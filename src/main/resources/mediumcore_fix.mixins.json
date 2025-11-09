@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.ringoway.mediumcorefix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mediumcore_fix.refmap.json",
+  "mixins": [
+    "MixinCommonEvents"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
